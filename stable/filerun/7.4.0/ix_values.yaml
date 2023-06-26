@@ -1,6 +1,6 @@
 image:
   repository: docker pull filerun/filerun
-  tag: 7.4@sha256:f73cbafaaa975f4f3eeb4e63db7100387899b59c8f00d3655f726e13a8a48752
+  tag: 7.4
   pullPolicy: IfNotPresent
 
 securityContext:
