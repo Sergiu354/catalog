@@ -1,5 +1,5 @@
 image:
-  repository: docker pull filerun/filerun
+  repository: filerun/filerun
   tag: 7.4
   pullPolicy: IfNotPresent
 
